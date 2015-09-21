@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 1vs1 Rules -->
+    <integer name="startingLife1v1">20</integer>
+    <integer name="maxPoison1v1">10</integer> <!-- poison count lose condition -->
+    
+    <!-- 2vs2 (Two-Headed Giant) Rules -->
+    <integer name="startingLife2v2">30</integer>
+    <integer name="maxPoison2v2">15</integer>
+    
+</resources>

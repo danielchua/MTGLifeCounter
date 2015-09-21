@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- App/Menu -->
+    <string name="app_name">MTGLifeCounter</string>
+    <string name="action_settings">Settings</string>
+    <string name="dice_settings">Roll a Dice</string>
+    
+    <!-- UI Colors -->
+    <color name="plusLife">#99CC00</color>
+    <color name="minusLife">#CC0000</color>
+    <color name="lifeCountBG">#FFBB33</color>
+    <color name="neutralButton">#CCCCCC</color>
+    <color name="lifeCount">#000000</color>
+    
+	<!-- Image Descriptions -->
+    <string name="img_descr_dice">dice.png</string>
+    <string name="img_descr_reset">reset.png</string>
+    
+    <!-- User Interface Texts --> 
+    <string name="resetLifeDialog">Reset Life Counts?</string>
+    <string name="plusOne">+1</string>
+    <string name="plusFive">+5</string>
+    <string name="minusOne">-1</string>
+    <string name="minusFive">-5</string>
+    
+</resources>
